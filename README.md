@@ -1,6 +1,6 @@
 # PPAKGOM
 
-<p><img src="README.assets/image-20211017145130132.png" align="left"></p>
+<div><img src="README.assets/image-20211017145130132.png" align="left"></div>
 
 
 
