@@ -2,7 +2,7 @@
 
 <div><img src="README.assets/image-20211017145130132.png" align="left"></div>
 
-
+<br>
 
 **스터디 중심의 화상회의 플랫폼**
 
@@ -16,15 +16,15 @@
 
 ## 개발자
 
-![FE](https://render.githubusercontent.com/render/math?math={\color{green}\textbf{FE}})팀장 이광교
+![FE](https://render.githubusercontent.com/render/math?math={\color{green}\textbf{FE}}) 팀장 이광교
 
-![BE](https://render.githubusercontent.com/render/math?math={\color{red}\textbf{BE}})팀원 송지연
+![BE](https://render.githubusercontent.com/render/math?math={\color{red}\textbf{BE}}) 팀원 송지연
 
-![BE](https://render.githubusercontent.com/render/math?math={\color{red}\textbf{BE}})팀원 신준희
+![BE](https://render.githubusercontent.com/render/math?math={\color{red}\textbf{BE}}) 팀원 신준희
 
-![FE](https://render.githubusercontent.com/render/math?math={\color{green}\textbf{FE}})팀원 이진영
+![FE](https://render.githubusercontent.com/render/math?math={\color{green}\textbf{FE}}) 팀원 이진영
 
-![FE](https://render.githubusercontent.com/render/math?math={\color{green}\textbf{FE}})팀원 천주용
+![FE](https://render.githubusercontent.com/render/math?math={\color{green}\textbf{FE}}) 팀원 천주용
 
 <br>
 
