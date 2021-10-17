@@ -1,11 +1,13 @@
 # PPAKGOM
-![image-20211017145130132](README.assets/image-20211017145130132.png)**스터디 중심의 화상회의 플랫폼**
+<img src="README.assets/image-20211017145130132.png" align="left">
+
+**스터디 중심의 화상회의 플랫폼**
 
 **프로젝트 기간 : 2021.07.12 ~ 2021.08.20**
 
 ![vue-cli Badge](https://img.shields.io/badge/vue--cli-4.5.13-brightgreen?style=flat)![vue.js Badge](https://img.shields.io/badge/vue.js-3.0-brightgreen?style=flat)![jdk Badge](https://img.shields.io/badge/jdk-1.8-green?style=flat)![gradle](https://img.shields.io/badge/gradle-6.7-green?style=flat)![STS Badge](https://img.shields.io/badge/STS-3.9.14-green?styl=flat)![MySQL Badge](https://img.shields.io/badge/MySQL-8.0.23-blue?style=flat)
 
-![Gitlab Badge](https://img.shields.io/static/v1?label=&message=Gitlab&color=red)![Gitlab Badge](https://img.shields.io/static/v1?label=&message=Jira&color=blue)![Gitlab Badge](https://img.shields.io/static/v1?label=&message=Notion&color=yellow)![Gitlab Badge](https://img.shields.io/static/v1?label=&message=Mattermost&color=5DADE2)
+![Gitlab Badge](https://img.shields.io/static/v1?label=&message=Gitlab&color=red) ![Jira Badge](https://img.shields.io/static/v1?label=&message=Jira&color=blue) ![Notion Badge](https://img.shields.io/static/v1?label=&message=Notion&color=yellow) ![Mattermost Badge](https://img.shields.io/static/v1?label=&message=Mattermost&color=5DADE2)
 
 <br>
 
@@ -103,11 +105,11 @@
 
 **스터디원 평가**
 
-![스터디원 평가](README.assets/스터디원 평가.gif)
+![스터디원 평가](README.assets/스터디원평가.gif)
 
 **문제집 생성**
 
-![문제집 생성](README.assets/문제집 생성.gif)
+![문제집 생성](README.assets/문제집생성.gif)
 
 **문제풀기&결과**
 
