@@ -64,7 +64,7 @@
 
 ![image-20211017161526207](README.assets/image-20211017161526207.png)
 
-### UI
+### 와이어프레임
 
 ![image-20211017161601145](README.assets/image-20211017161601145.png)
 
